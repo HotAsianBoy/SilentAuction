@@ -1,3 +1,8 @@
+"""Silent Auction
+A program which allows the user to bid for items in a
+'silent auction' (takes care of a silent auction)."""
+
+
 PREARRANGED_STOP = 0
 highest_bid = 0
 
